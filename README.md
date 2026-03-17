@@ -1,4 +1,4 @@
-ML - Heart Disease Prediction Using Logistic Regression
+# ML - Heart Disease Prediction Using Logistic Regression
 
 Heart disease is one of the main cause of death in world so detecting and predicting it early is important for better treatment and prevention. Machine learning become very helpful in healthcare for predicting conditions like heart disease. One method used is logistic regression which helps to predict the likelihood of something happening like whether a person has heart disease based on input features. This notebook looks into various machine learning library using Python and data science libraries in an attempt to build a machine learning model. Predicting whether a person has heart disease or not based on their medical attributes.
 
