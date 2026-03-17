@@ -26,16 +26,16 @@ Attribute Information:
 * HeartDisease: Does a person has heart disease (No = 0, Yes = 1).
 
 Method Used: 
-Logistic Regression(Classification)
+* Logistic Regression(Classification)
 
-RandomForestClassifier
+* RandomForestClassifier
 
-SVM
+* SVM
 
-KNN
+* KNN
 
-RandomizedSearchCV
+* RandomizedSearchCV
 
-GridSearchCV
+* GridSearchCV
 
 
